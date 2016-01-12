@@ -1,0 +1,34 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  F:/leeo/CC3200/Hardware/Smartlocker/layout/Smartlocker10x8.brd*
+G04 Film Name:    SILK_BOTTOM*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 16.5-S047*
+G04 Origin Date:  Mon Dec 28 14:32:46 2015*
+G04 *
+G04 Layer:  REF DES/SILKSCREEN_BOTTOM*
+G04 Layer:  PACKAGE GEOMETRY/SILKSCREEN_BOTTOM*
+G04 Layer:  BOARD GEOMETRY/OUTLINE*
+G04 *
+G04 Offset:    (0.0 0.0)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     0.0*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX25Y25*MOIN*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,.001*%
+G75*
+%LPD*%
+G75*
+G54D10*
+G01X8000Y0D02*
+X307000D01*
+G03X315000Y8000I0J8000D01*
+G01X307000Y393700D02*
+X8000D01*
+G03X0Y385700I0J-8000D01*
+G01Y8000D01*
+G03X8000Y0I8000J0D01*
+M02*
